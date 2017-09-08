@@ -1,7 +1,0 @@
-M:\CMP402\RGBNeuralNet\bin\Debug\RGBNeuralNet.exe.config
-C:\Users\nosrick\Documents\University\CMP402\RGBNeuralNet\bin\Debug\RGBNeuralNet.exe.config
-C:\Users\nosrick\Documents\University\CMP402\RGBNeuralNet\bin\Debug\RGBNeuralNet.exe
-C:\Users\nosrick\Documents\University\CMP402\RGBNeuralNet\bin\Debug\RGBNeuralNet.pdb
-C:\Users\nosrick\Documents\University\CMP402\RGBNeuralNet\obj\Debug\RGBNeuralNet.csprojResolveAssemblyReference.cache
-C:\Users\nosrick\Documents\University\CMP402\RGBNeuralNet\obj\Debug\RGBNeuralNet.exe
-C:\Users\nosrick\Documents\University\CMP402\RGBNeuralNet\obj\Debug\RGBNeuralNet.pdb

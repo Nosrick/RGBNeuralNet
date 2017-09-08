@@ -16,7 +16,7 @@ namespace RGBNeuralNet
                 brain.Epoch(controller.TrainingSet);
             }
 
-            Console.WriteLine("Welcome to RGBNeuralNet. Enter a colour value to use. For example: FFFFFF");
+            Console.WriteLine("Welcome to RGBNeuralNet. Enter a colour value to use. For example: #FFFFFF");
             while (true)
             {
                 string input = Console.ReadLine();
